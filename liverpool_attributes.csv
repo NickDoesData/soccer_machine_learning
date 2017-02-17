@@ -1,0 +1,7 @@
+,id,team_fifa_api_id,team_api_id,date,buildUpPlaySpeed,buildUpPlaySpeedClass,buildUpPlayDribbling,buildUpPlayDribblingClass,buildUpPlayPassing,buildUpPlayPassingClass,buildUpPlayPositioningClass,chanceCreationPassing,chanceCreationPassingClass,chanceCreationCrossing,chanceCreationCrossingClass,chanceCreationShooting,chanceCreationShootingClass,chanceCreationPositioningClass,defencePressure,defencePressureClass,defenceAggression,defenceAggressionClass,defenceTeamWidth,defenceTeamWidthClass,defenceDefenderLineClass
+742,743,9,8650,2010-02-22 00:00:00,50,Balanced,,Little,35,Mixed,Organised,50,Normal,60,Normal,70,Lots,Organised,40,Medium,60,Press,40,Normal,Cover
+743,744,9,8650,2011-02-22 00:00:00,60,Balanced,,Little,50,Mixed,Organised,40,Normal,45,Normal,60,Normal,Organised,55,Medium,55,Press,50,Normal,Cover
+744,745,9,8650,2012-02-22 00:00:00,60,Balanced,,Little,60,Mixed,Organised,48,Normal,73,Lots,53,Normal,Organised,50,Medium,48,Press,62,Normal,Cover
+745,746,9,8650,2013-09-20 00:00:00,39,Balanced,,Little,44,Mixed,Organised,42,Normal,34,Normal,54,Normal,Organised,59,Medium,52,Press,61,Normal,Cover
+746,747,9,8650,2014-09-19 00:00:00,71,Fast,48.0,Normal,32,Short,Organised,34,Normal,41,Normal,61,Normal,Organised,51,Medium,48,Press,62,Normal,Cover
+747,748,9,8650,2015-09-10 00:00:00,66,Balanced,60.0,Normal,45,Mixed,Organised,34,Normal,34,Normal,46,Normal,Organised,51,Medium,52,Press,61,Normal,Cover

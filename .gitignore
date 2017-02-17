@@ -1,0 +1,10 @@
+# GITIGNORE FILE
+
+# python compiled files 
+*.py[cod] 
+ 
+# IPython Notebook 
+*.ipynb_checkpoints 
+
+# SQL Lite Database
+*.sqlite
